@@ -87,3 +87,4 @@ production:
   database: signup_production
   username: signup
   password: <%= ENV['SIGNUP_DATABASE_PASSWORD'] %>
+# just testing 123
